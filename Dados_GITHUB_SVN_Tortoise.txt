@@ -1,0 +1,16 @@
+Pasta do GITHUB:  https://github.com/circleofhorror/jogo01, usuario circleofhorror, senha primeirojogo1, email: niltonoliveirabr@yahoo.com.br
+
+
+baixar turtose svn (permite controlar as versoes dos arquivos do projeto)
+clicar em svn chechout
+abrir janela pedido url do repositorio
+colar o endereco GITHUB do projeto
+
+vai criar algumas pastas
+terá uma pasta chamada trunck (sincronia dos dados na nuvem)
+quando criar o projeto no unity salvar dentro da pasta trunk
+clickar com o botao do direito no projeto entrar na opcao comit
+vai aparecer uma outra tela pedindo para colocar as informacaoes do comit e clique ok
+a pasta vai ficar com alguns icones
+quando estiver verde vai estar sincronizado
+quando estiver vermelha vai estar informando que nao foi sincronizado
