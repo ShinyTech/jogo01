@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CloseGame.cs">
+    <Files>
+      <File FileName="Assets\Scripts\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\mov.cs" Line="1" Column="1" />
+      <File FileName="..\..\GameNave-master\projetoNave\Assets\Scripts\LoadLevel.cs" Line="1" Column="1" />
+      <File FileName="..\..\GameNave-master\projetoNave\Assets\Scripts\PlayerController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Rotate.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Colisao.cs" Line="9" Column="28" />
+      <File FileName="Assets\Scripts\CloseGame.cs" Line="16" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
