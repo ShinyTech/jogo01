@@ -14,5 +14,6 @@ public class LoadLevel : MonoBehaviour {
 	
 	public void CarregaLevel(int Level){
 		Application.LoadLevel (Level);
-	}
+	}	
+
 }

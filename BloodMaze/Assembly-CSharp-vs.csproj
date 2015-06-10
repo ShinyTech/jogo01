@@ -47,11 +47,18 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.cs" />
+     <Compile Include="Assets\Scripts\CameraLookAt.cs" />
      <Compile Include="Assets\Scripts\CloseGame.cs" />
+     <Compile Include="Assets\Scripts\Coletaveis.cs" />
      <Compile Include="Assets\Scripts\Colisao.cs" />
+     <Compile Include="Assets\Scripts\DungeonCamera.cs" />
      <Compile Include="Assets\Scripts\LoadLevel.cs" />
+     <Compile Include="Assets\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Scripts\Rotate.cs" />
      <Compile Include="Assets\Scripts\mov.cs" />
+     <None Include="Assets\Maps\cenario2.fbm\Novo Documento de Texto.txt" />
+     <None Include="Assets\Maps\Labirinto.fbm\Novo Documento de Texto.txt" />
+     <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
